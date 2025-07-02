@@ -1,6 +1,6 @@
 {
 	"Name": "Fearless League",
-	"Version": 1751273407,
+	"Version": 1751456391,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Fearless: CHECK THE EXACT RULES ON THE SERVER.\nTL;DR perks used by EITHER TEAM in a set are banned in the next sets.",
 	"Tiers": [
@@ -2690,13 +2690,21 @@
 			"IndividualAddonBans": [
 				793
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
