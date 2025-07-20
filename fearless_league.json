@@ -1,6 +1,6 @@
 {
 	"Name": "Fearless League",
-	"Version": 1751456391,
+	"Version": 1753026646,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Fearless: CHECK THE EXACT RULES ON THE SERVER.\nTL;DR perks used by EITHER TEAM in a set are banned in the next sets.",
 	"Tiers": [
@@ -2054,7 +2054,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"21"
+				"33"
 			],
 			"BalanceTiers": [
 				0
